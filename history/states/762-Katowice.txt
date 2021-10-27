@@ -1,0 +1,29 @@
+state={
+	id=762
+	name="STATE_762"
+	resources={
+		steel=19.000
+		aluminium=7.000
+	}
+
+	history={
+		victory_points = {
+			506 50
+		}
+		owner = GRZ
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+            arms_factory = 1
+		}
+		add_core_of = GRZ
+		add_core_of = POL
+
+	}
+
+	provinces={
+		506 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category = metropolis

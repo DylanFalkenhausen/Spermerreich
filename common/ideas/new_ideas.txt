@@ -1,0 +1,30 @@
+ideas = {
+
+	country = {
+		poor_army = {
+			picture = poor_army
+			
+			allowed = {
+				tag = KOP
+			}
+
+			available = {
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				conscription_factor = -0.2
+				justify_war_goal_time = 0.5
+				enemy_justify_war_goal_time = 0.5
+			}
+		}
+	}
+}

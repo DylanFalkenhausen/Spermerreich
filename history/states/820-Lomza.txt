@@ -1,0 +1,22 @@
+state={
+	id=820
+	name="STATE_820"
+	history = {
+		owner = BIA
+		add_core_of = BIA
+		add_core_of = POL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			11274 10 
+		}
+	}
+	provinces={
+		11274 11329 11357 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category = town
+}

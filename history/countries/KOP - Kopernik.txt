@@ -1,0 +1,125 @@
+﻿capital = 807
+
+set_fuel_ratio = 0.8
+set_research_slots = 3
+set_stability = 0.7
+set_war_support = 0.5
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+		electronic_mechanical_engineering = 1
+		radio = 1
+		radio_detection = 1
+}
+
+set_convoys = 0
+
+add_ideas = {
+	limited_conscription
+	partial_economic_mobilisation
+	poor_army
+}
+
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    democratic = 7
+	neutrality = 5
+	fascism = 6
+	communism = 7
+	monarchism = 70
+	libertarianism = 5
+}
+
+create_country_leader = {
+	name = "Jan Dylan III"
+	desc = ""
+	picture = "jandylantrzeci.dds"
+	expire = "1965.1.1"
+	ideology = monarchism_type
+	traits = {
+		the_sacred_king
+	}
+}
+
+create_country_leader = {
+	name = "gen. Dylan"
+	desc = ""
+	picture = "gendylan.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		dictator
+	}
+}
+	
+create_country_leader = {
+	name = "Dylan Falkenhausen"
+	desc = ""
+	picture = "dylanfalkenhausen.dds"
+	expire = "1965.1.1"
+	ideology = falangism
+	traits = {
+		dictator
+	}
+}
+
+create_country_leader = {
+	name = "Dylan Voronin"
+	desc = ""
+	picture = "dylanvoronin.dds"
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {
+		dictator
+	}
+}
+
+create_country_leader = {
+	name = "Jan Dylan IV"
+	desc = ""
+	picture = "jandylanczwarty.dds"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jan Dylan IV"
+	desc = ""
+	picture = "jandylanczwarty.dds"
+	expire = "1965.1.1"
+	ideology = libertarianism_type
+	traits = {
+	}
+}
+
+create_field_marshal = {
+	name = "Dylan Falkenhausen"
+	picture = "dylanfalkenhausen.dds"
+	traits = { offensive_doctrine urban_assault_specialist brilliant_strategist aggresive_assaulter }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 1
+	id = 1
+}
+
+create_corps_commander = {
+ 	name = "Bimbosz"
+ 	portrait_path = "bimbosz.dds"
+ 	traits = { panzer_leader fortress_buster panzer_expert }
+ 	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+}

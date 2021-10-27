@@ -1,0 +1,16 @@
+music = {
+	name = "maintheme"
+	file = "maintheme.ogg"
+}
+music = {
+	name = "hellmarch"
+	file = "hell_march.ogg"
+}
+music = {
+	name = "waswollenwirtrinken"
+	file = "waswollenwirtrinken.ogg"
+}
+music = {
+	name = "belgijka"
+	file = "belgijka.ogg"
+}

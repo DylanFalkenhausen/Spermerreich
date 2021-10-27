@@ -1,0 +1,25 @@
+state={
+	id=814
+	name="STATE_814"
+	provinces={
+		466 3434 6499 6522 9494 11507 
+	}
+	
+	history = {
+		owner = RZE
+		add_core_of = RZE
+		add_core_of = POL
+		victory_points = {
+			6522 50
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+		}
+	}
+	
+	manpower=450000
+	buildings_max_level_factor=1.000
+	state_category = city
+}

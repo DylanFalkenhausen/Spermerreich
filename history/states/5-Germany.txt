@@ -1,0 +1,26 @@
+
+state={
+	id=5
+	name="STATE_5"
+
+	history={
+		victory_points = {
+			9327 3 
+		}
+		owner = 
+		controller = 
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of =
+
+	}
+
+	provinces={
+		9327 11386 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

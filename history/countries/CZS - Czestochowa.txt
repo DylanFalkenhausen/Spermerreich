@@ -1,0 +1,68 @@
+﻿capital = 830
+
+set_research_slots = 3
+set_stability = 0.9
+set_war_support = 0.5
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 69
+	fascism = 3
+	communism = 3
+	neutrality = 25
+}
+
+create_country_leader = {
+	name = "Zgromadzenie Jasnej Góry"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}
+	
+create_country_leader = {
+	name = "Matka Boska Częstochowska"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = falangism
+	traits = {
+		popular_queen
+	}
+}
+
+create_country_leader = {
+	name = "Marol Karks"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kazimierz Częstochov"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}

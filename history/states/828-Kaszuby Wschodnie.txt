@@ -1,0 +1,30 @@
+state={
+	id=828
+	name="STATE_828"
+	resources={
+		steel=23.000
+		aluminium=8.000
+	}
+	provinces={
+		334 389 3324 
+	}
+	
+	
+	history = {
+		owner = KSW
+		add_core_of = KSW
+		add_core_of = POL
+		victory_points = {
+			3324 50
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+		}
+	}
+	
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

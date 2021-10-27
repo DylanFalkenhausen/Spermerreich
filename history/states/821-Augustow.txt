@@ -1,0 +1,28 @@
+state={
+	id=821
+	name="STATE_821"
+	
+	
+	history = {
+		owner = AUG
+		add_core_of = AUG
+		add_core_of = POL
+		victory_points = {
+			400 50
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	
+	
+	
+	provinces={
+		400 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

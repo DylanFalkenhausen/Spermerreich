@@ -1,0 +1,27 @@
+state={
+	id=807
+	name="STATE_807"
+	resources={
+		steel=20.000
+	}
+	
+	history = {
+		owner = KOP
+		add_core_of = KOP
+		add_core_of = POL
+		victory_points = {
+			6464 50
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+		}
+	}
+	provinces={
+		6464 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category = metropolis
+}

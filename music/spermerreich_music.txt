@@ -1,0 +1,39 @@
+music_station = "kopernik_station"
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "hellmarch"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music = {
+	song = "belgijka"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+music_station = "spermer_station"
+
+music = {
+	song = "waswollenwirtrinken"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
