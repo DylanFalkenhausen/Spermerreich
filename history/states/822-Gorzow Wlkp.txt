@@ -4,6 +4,19 @@ state={
 	provinces={
 		6236 6309 9252 9277 9387 
 	}
+	history = {
+		owner = SZC
+		add_core_of = SZC
+		add_core_of = POL
+		victory_points = {
+			9387 50
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+		}
+	}
 	manpower=200000
 	buildings_max_level_factor=1.000
 	state_category = city

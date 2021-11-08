@@ -1,0 +1,91 @@
+﻿capital = 763
+
+set_research_slots = 3
+set_stability = 0.3
+set_war_support = 0.5
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_popularities = {	democratic = 7	neutrality = 50	communism = 33	fascism = 5
+	libertarianism = 3
+	monarchism = 2
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+create_country_leader = {
+    name = "huj"
+    desc = ""
+    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+    expire = "1965.1.1"
+    ideology = despotism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Rada Konigsberska"
+    desc = ""
+    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_19.dds"
+    expire = "1965.1.1"
+    ideology = fascism_ideology
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Michaił Kalinin"
+    desc = ""
+    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+    expire = "1965.1.1"
+    ideology = stalinism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "placeholder_10"
+    desc = ""
+    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+    expire = "1965.1.1"
+    ideology = socialism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "placeholder"
+    desc = ""
+    picture = ""
+    expire = "1965.1.1"
+    ideology = libertarianism_type
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Fryderyk I Hohenzollern"
+    desc = ""
+    picture = "gfx/leaders/Europe/portrait_europe_generic_6.dds"
+    expire = "1965.1.1"
+    ideology = monarchism_type
+    traits = {
+        #
+    }
+}
+
+
+

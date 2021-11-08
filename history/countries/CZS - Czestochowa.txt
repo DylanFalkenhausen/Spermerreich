@@ -20,14 +20,16 @@ set_politics = {
 set_popularities = {
 	democratic = 69
 	fascism = 3
-	communism = 3
+	communism = 0
 	neutrality = 25
+	libertarianism = 0
+	monarchism = 3
 }
 
 create_country_leader = {
 	name = "Zgromadzenie Jasnej Góry"
 	desc = ""
-	picture = ""
+	picture = "zgromadzeniejasnagora.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {
@@ -38,7 +40,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Matka Boska Częstochowska"
 	desc = ""
-	picture = ""
+	picture = "matkaboska.dds"
 	expire = "1965.1.1"
 	ideology = falangism
 	traits = {
@@ -49,7 +51,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Marol Karks"
 	desc = ""
-	picture = ""
+	picture = "karks.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
@@ -60,9 +62,30 @@ create_country_leader = {
 create_country_leader = {
 	name = "Kazimierz Częstochov"
 	desc = ""
-	picture = ""
+	picture = "czestochov.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kazimierz Częstochov"
+	desc = ""
+	picture = "czestochov.dds"
+	expire = "1965.1.1"
+	ideology = libertarianism_type
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Matka Boska Częstochowska"
+	desc = ""
+	picture = "matkaboska.dds"
+	expire = "1965.1.1"
+	ideology = monarchism_type
+	traits = {
+		popular_queen
 	}
 }

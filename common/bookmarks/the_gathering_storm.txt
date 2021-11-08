@@ -39,7 +39,7 @@ bookmarks = {
 		}
 		"BIA"={
 			history = "BIA_GATHERING_STORM_DESC"
-			ideology = fascism
+			ideology = communism
 			ideas = {
 				
 			}
@@ -61,13 +61,11 @@ bookmarks = {
 			}
 		}
 		
-		"JAP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
+		"KRO"={
+			history = "KRO_GATHERING_STORM_DESC"
+			ideology = neutrality
 			ideas = {
-				state_shintoism
-				JAP_zaibatsus
-				JAP_militarism
+
 			}	
 			focuses = {
 
@@ -78,8 +76,7 @@ bookmarks = {
 			history = "SOV_GATHERING_STORM_DESC"
 			ideology = communism
 			ideas = {
-				trotskyite_plot
-				home_of_revolution
+			
 			}
 			focuses = {
 
@@ -114,10 +111,10 @@ bookmarks = {
 			}
 		}
 		
-		"KSW"={
+		"POM"={
 			minor = yes
-			history = "KSW_GATHERING_STORM_DESC"
-			ideology = neutrality
+			history = "POM_GATHERING_STORM_DESC"
+			ideology = democratic
 			ideas = {
 				
 			}
@@ -126,10 +123,10 @@ bookmarks = {
 			}
 		}
 		
-		"KSZ"={
+		"SZC"={
 			minor = yes
-			history = "KSZ_GATHERING_STORM_DESC"
-			ideology = neutrality
+			history = "SZC_GATHERING_STORM_DESC"
+			ideology = communism
 			ideas = {
 				
 			}

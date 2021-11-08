@@ -1,8 +1,68 @@
 #reload countrycolors
 
+HAJ = {
+	color = rgb { 117 101 57 }
+	color_ui = rgb { 117 101 57 }
+}
+
+LUB = {
+	color = rgb { 115 158 92 }
+	color_ui = rgb { 115 158 92 }
+}
+
+ZAK = {
+	color = rgb { 59 40 39 }
+	color_ui = rgb { 59 40 39 }
+}
+
+KRK = {
+	color = rgb { 6 51 79 }
+	color_ui = rgb { 6 51 79 }
+}
+
+POZ = {
+	color = rgb { 75 129 163 }
+	color_ui = rgb { 75 129 163 }
+}
+
+WRO = {
+	color = rgb { 135 45 42 }
+	color_ui = rgb { 135 45 42 }
+}
+
+POM = {
+	color = rgb { 27 76 135 }
+	color_ui = rgb { 27 76 135 }
+}
+
+SZC = {
+	color = rgb { 185 73 0 }
+	color_ui = rgb { 185 73 0 }
+}
+
+PLO = {
+	color = rgb { 203 112 4 }
+	color_ui = rgb { 203 112 4 }
+}
+
+BYD = {
+	color = rgb { 140 69 60 }
+	color_ui = rgb { 140 69 60 }
+}
+
+POZ = {
+	color = rgb { 52 147 255 }
+	color_ui = rgb { 52 147 255 }
+}
+
+KRO = {
+	color = rgb { 96 50 131 }
+	color_ui = rgb { 96 50 131 }
+}
+
 WIL = {
 	color = rgb { 255 122 102 }
-	color_ui = rgb { 205 122 102 }
+	color_ui = rgb { 255 122 102 }
 }
 
 SUW = {
@@ -23,16 +83,6 @@ RZE = {
 BIA = {
 	color = rgb { 60 156 86 }
 	color_ui = rgb { 60 156 86 }
-}
-
-KSZ = {
-	color = rgb { 234 209 50 }
-	color_ui = rgb { 234 209 50 }
-}
-
-KSW = {
-	color = rgb { 234 209 50 }
-	color_ui = rgb { 234 209 50 }
 }
 
 CZS = {

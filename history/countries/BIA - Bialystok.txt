@@ -1,0 +1,89 @@
+﻿capital = 97
+
+set_fuel_ratio = 0.4
+set_research_slots = 2
+set_stability = 0.4
+set_war_support = 0.4
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    democratic = 0
+	neutrality = 15
+	fascism = 15
+	communism = 60
+	monarchism = 10
+	libertarianism = 0
+}
+
+create_country_leader = {
+	name = "Kononowicz I"
+	desc = ""
+	picture = "krolkonon.dds"
+	expire = "1965.1.1"
+	ideology = monarchism_type
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Szymon Kotłownia"
+	desc = ""
+	picture = "szymonkotlownia.dds"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+	}
+}
+	
+create_country_leader = {
+	name = "Krzysztof Kononowicz"
+	desc = ""
+	picture = "konon.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Maksim Litwinow"
+	desc = ""
+	picture = "maksimlitwinow.dds"
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kazimierz Halicki"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = socialism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Konon Owicz"
+	desc = ""
+	picture = "konon.dds"
+	expire = "1965.1.1"
+	ideology = libertarianism_type
+	traits = {
+	}
+}

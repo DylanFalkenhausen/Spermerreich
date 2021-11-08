@@ -7,4 +7,19 @@ state={
 	manpower=100000
 	buildings_max_level_factor=1.000
 	state_category = town
+	
+	history={
+		victory_points = {
+			9372 3 
+		}
+		owner = KRO
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		add_core_of = KRO
+		add_core_of = POL
+
+	}
 }

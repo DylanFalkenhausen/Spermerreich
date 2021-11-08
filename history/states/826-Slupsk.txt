@@ -4,6 +4,20 @@ state={
 	provinces={
 		11316 11343 11372 
 	}
+	history={
+		owner = POM
+		victory_points = {
+			11343 45
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 2
+		}
+		add_core_of = POM
+		add_core_of = POL
+
+	}
 	manpower=250000
 	buildings_max_level_factor=1.000
 	state_category = large_city

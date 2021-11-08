@@ -6,8 +6,8 @@ state={
 	state_category = city
 
 	history={
-		owner = 
-		controller = 
+		owner = KRO
+		add_core_of = KRO
 		
 		victory_points = {
 			6332 10 
@@ -26,12 +26,7 @@ state={
 
 			}
 			air_base = 6
-		}
-		add_core_of = 
-		1939.1.1 = {
-			buildings = {
-				anti_air_building = 5
-			}
+			arms_factory = 2
 		}
 	}
 

@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = KSZ
+		owner = POM
 		victory_points = {
 			6282 5 
 		}
@@ -22,7 +22,8 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = KSZ
+		add_core_of = POM
+		add_core_of = POL
 
 	}
 

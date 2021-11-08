@@ -4,7 +4,7 @@ state={
 	name="STATE_85"
 
 	history={
-		owner =
+		owner = POM
 		victory_points = {
 			362 45
 		}
@@ -12,14 +12,15 @@ state={
 			infrastructure = 6
 			arms_factory = 2
 			industrial_complex = 1
-			dockyard = 2
-			air_base = 1
+			dockyard = 4
+			air_base = 2
 			362 = {
-				naval_base = 5
+				naval_base = 6
 
 			}
 
 		}
+		add_core_of = POM
 		add_core_of = POL
 
 	}

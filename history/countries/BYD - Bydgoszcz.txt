@@ -1,0 +1,92 @@
+﻿capital = 827
+
+set_fuel_ratio = 0.5
+set_research_slots = 2
+set_stability = 0.5
+set_war_support = 0.3
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+add_ideas = {
+}
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    democratic = 30
+	neutrality = 60
+	fascism = 10
+	communism = 0
+	monarchism = 0
+	libertarianism = 0
+}
+
+create_country_leader = {
+	name = "wódz Bydgoszczan"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = monarchism_type
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "PLEASE COME TO BYDGOSZCZ"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+	}
+}
+	
+create_country_leader = {
+	name = "Werner Kampe"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Hujec Hujewski"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Rada Bydgoszczy"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Marian Rejewski"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = libertarianism_type
+	traits = {
+	}
+}
