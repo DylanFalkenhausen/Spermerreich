@@ -4,9 +4,21 @@ state={
 	name="STATE_86"
 
 	history={
-		owner =
+		owner = POZ
+		victory_points = {
+			17 10 
+		}
 		victory_points = {
 			6558 10 
+		}
+		victory_points = {
+			3460 10 
+		}
+		victory_points = {
+			388 10 
+		}
+		victory_points = {
+			11232 10 
 		}
 		buildings = {
 			infrastructure = 6
@@ -26,11 +38,8 @@ state={
 			air_base = 3
 
 		}
-		add_core_of =
-		1938.3.12 = {
-			add_claim_by = 
-
-		}
+		add_core_of = POZ
+		add_core_of = POL
 
 	}
 

@@ -4,6 +4,19 @@ state={
 	provinces={
 		562 3458 6416 
 	}
+	history = {
+		owner = LUB
+		add_core_of = LUB
+		add_core_of = POL
+		victory_points = {
+			6416 10
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+		}
+	}
 	manpower=250000
 	buildings_max_level_factor=1.000
 	state_category = town

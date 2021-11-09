@@ -4,6 +4,19 @@ state={
 	provinces={
 		11247 
 	}
+	history = {
+		owner = HAJ
+		add_core_of = HAJ
+		add_core_of = POL
+		victory_points = {
+			11247 50
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+	}
 	manpower=250000
 	buildings_max_level_factor=1.000
 	state_category = pastoral

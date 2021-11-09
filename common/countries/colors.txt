@@ -1,8 +1,8 @@
 #reload countrycolors
 
 HAJ = {
-	color = rgb { 117 101 57 }
-	color_ui = rgb { 117 101 57 }
+	color = rgb { 194 147 19 }
+	color_ui = rgb { 194 147 19 }
 }
 
 LUB = {
@@ -11,8 +11,8 @@ LUB = {
 }
 
 ZAK = {
-	color = rgb { 59 40 39 }
-	color_ui = rgb { 59 40 39 }
+	color = rgb { 77 70 71 }
+	color_ui = rgb { 77 70 71 }
 }
 
 KRK = {

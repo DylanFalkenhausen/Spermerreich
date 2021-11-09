@@ -4,6 +4,23 @@ state={
 	provinces={
 		552 6534 6595 9470 11517 
 	}
+	history = {
+		owner = WRO
+		add_core_of = WRO
+		add_core_of = POL
+		victory_points = {
+			552 10
+		}
+		victory_points = {
+			9470 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		set_demilitarized_zone = yes
+	}
 	manpower=150000
 	buildings_max_level_factor=1.000
 	state_category = city

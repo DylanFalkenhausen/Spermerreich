@@ -3,26 +3,25 @@ state={
 	id=92
 	name="STATE_92"
 
-	history={
+    history = {
+		owner = LUB
+		add_core_of = LUB
+		add_core_of = POL
 		victory_points = {
-			11399 1 
+			11399 10
 		}
-		owner = 
+		victory_points = {
+			6484 10
+		}
+		victory_points = {
+			3251 10
+		}
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
+			arms_factory = 2
 			air_base = 1
-
 		}
-		add_core_of = 
-		1939.1.1 = {
-			buildings = {
-				air_base = 3
-
-			}
-
-		}
-
 	}
 
 	provinces={

@@ -6,18 +6,22 @@ state={
 		aluminium=15.000
 	}
 
-	history={
+	history = {
+		owner = WRO
+		add_core_of = WRO
+		add_core_of = POL
 		victory_points = {
-			3473 1 
+			444 10
 		}
-		owner =
+		victory_points = {
+			3473 10
+		}
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
-
+			arms_factory = 1
 		}
-		add_core_of =
-
+		set_demilitarized_zone = yes
 	}
 
 	provinces={
