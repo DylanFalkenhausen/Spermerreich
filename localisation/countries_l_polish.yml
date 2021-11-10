@@ -242,6 +242,28 @@
  POM_DEF:0 "Pomorze"
  POM_ADJ:0 "pom."
  
+ WRO_fascism:0 "Breslau"
+ WRO_fascism_DEF:0 "Breslau"
+ WRO_democratic:0 "Wrocław"
+ WRO_democratic_DEF:0 "Wrocław"
+ WRO_neutrality:0 "Wrocław"
+ WRO_neutrality_DEF:0 "Wrocław"
+ WRO_communism:0 "Czerwony Wrocław"
+ WRO_communism_DEF:0 "Czerwony Wrocław"
+ WRO_monarchism:1 "Księstwo Wrocławskie"
+ WRO_monarchism_DEF:1 "Księstwo Wrocławskie"
+ WRO_libertarianism:0 "Wrocław"
+ WRO_libertarianism_DEF:0 "Wrocław"
+ WRO_monarchism_ADJ:0 "wroc."
+ WRO_libertarianism_ADJ:0 "wroc."
+ WRO_fascism_ADJ:0 "bres."
+ WRO_democratic_ADJ:0 "wroc."
+ WRO_neutrality_ADJ:0 "wroc."
+ WRO_communism_ADJ:0 "wroc."
+ WRO:0 "Wrocław"
+ WRO_DEF:0 "Wrocław"
+ WRO_ADJ:0 "wroc."
+ 
  #############################################################
  ######### KRAJE Z VANILLI ###################################
  #############################################################
