@@ -6,19 +6,7 @@ state={
 	history={
 		owner = POZ
 		victory_points = {
-			17 10 
-		}
-		victory_points = {
 			6558 10 
-		}
-		victory_points = {
-			3460 10 
-		}
-		victory_points = {
-			388 10 
-		}
-		victory_points = {
-			11232 10 
 		}
 		buildings = {
 			infrastructure = 6

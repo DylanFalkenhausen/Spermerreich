@@ -15,7 +15,7 @@ state={
 		add_core_of = POM
 		add_core_of = POL
 		victory_points = {
-			3324 50
+			3324 10
 		}
 		buildings = {
 			infrastructure = 5

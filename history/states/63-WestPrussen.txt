@@ -10,10 +10,7 @@ state={
 	history={
 		owner = POM
 		victory_points = {
-			6282 5 
-		}
-		victory_points = {
-			11260 50
+			11260 10
 		}
 		buildings = {
 			infrastructure = 5

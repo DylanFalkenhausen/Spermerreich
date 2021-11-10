@@ -8,13 +8,7 @@ state={
 		add_core_of = LUB
 		add_core_of = POL
 		victory_points = {
-			11399 10
-		}
-		victory_points = {
 			6484 10
-		}
-		victory_points = {
-			3251 10
 		}
 		buildings = {
 			infrastructure = 5

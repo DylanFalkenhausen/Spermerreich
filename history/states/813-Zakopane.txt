@@ -9,10 +9,7 @@ state={
 		add_core_of = ZAK
 		add_core_of = POL
 		victory_points = {
-			417 25
-		}
-		victory_points = {
-			3410 25
+			417 10
 		}
 		buildings = {
 			infrastructure = 3

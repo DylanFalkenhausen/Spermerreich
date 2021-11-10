@@ -9,7 +9,7 @@ state={
 		add_core_of = SZC
 		add_core_of = POL
 		victory_points = {
-			9334 50
+			9334 10
 		}
 		buildings = {
 			infrastructure = 6

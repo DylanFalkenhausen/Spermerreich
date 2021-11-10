@@ -9,7 +9,7 @@ state={
 		add_core_of = BYD
 		add_core_of = POL
 		victory_points = {
-			243 50
+			243 10
 		}
 		buildings = {
 			infrastructure = 6

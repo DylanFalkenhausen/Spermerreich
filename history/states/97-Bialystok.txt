@@ -6,10 +6,7 @@ state={
 	history={
 		owner = BIA
 		victory_points = {
-			11301 47
-		}
-		victory_points = {
-			347 3 
+			11301 10
 		}
 		buildings = {
 			infrastructure = 5
