@@ -24,10 +24,10 @@ set_politics = {
 }
 
 set_popularities = {
-    democratic = 70
+    democratic = 60
 	neutrality = 0
-	fascism = 11
-	communism = 19
+	fascism = 30
+	communism = 10
 	monarchism = 0
 	libertarianism = 0
 }
