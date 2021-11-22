@@ -70,11 +70,6 @@ SUW = {
 	color_ui = rgb { 0 187 255 }
 }
 
-AUG = {
-	color = rgb { 150 162 255 }
-	color_ui = rgb { 150 162 255 }
-}
-
 RZE = {
 	color = rgb { 140 94 47 }
 	color_ui = rgb { 140 94 47 }

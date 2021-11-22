@@ -125,9 +125,6 @@ on_actions = {
 			news_event = { id = nuke_dropped.12 days = 1}
 			news_event = { id = nuke_dropped.13 days = 1}
 		}
-		random_events = {
-			100 = nuke_dropped.0
-		}
 	}
 
 	# country random events
@@ -177,33 +174,6 @@ on_actions = {
 	#FROM is war target
 	on_declare_war = {
 		effect = {
-			#make sure warlords don't use the same guy
-			if = {
-				limit = {
-					OR = {
-						original_tag = YUN
-						original_tag = SIK
-						original_tag = GXC
-						original_tag = SHX
-						original_tag = XSM
-					}
-				}
-				if = {
-					limit = {
-						ROOT = {
-							original_tag = FROM
-							NOT = { has_country_flag = warlord_replaced }
-						}
-					}
-					ROOT = {
-						retire_country_leader = yes
-						set_country_flag = warlord_replaced
-					}
-					FROM = {
-						warlord_rule_all_parties = yes
-					}
-				}
-			}
 
 			#If prepared by siphoning equipment, receive equipment back
 			if = {
